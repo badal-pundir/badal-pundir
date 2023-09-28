@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Badal Pundir or call me Cloudy.
-- 👀 I’m interested in - AIML, Software developement and design like stuff..
-- 🌱 I’m currently in learning phase and I will always in it... 
+- 👀 I’m interested in - AIML, Software developement and Software designing.
+- 🌱 I’m currently in learning phase and I will always in it. 
 - 💞️ Learn and code thats all, learning never bores me :) 
 - 📫 Interested! I live here -> badalpundir2@gmail.com 
 
